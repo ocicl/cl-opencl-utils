@@ -1,0 +1,10 @@
+* cl-opencl-utils
+
+Utilities for cl-opencl
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ghollisjr/cl-opencl-utils.git   |
+| commit  | b648d65  |
+| systems | cl-opencl-utils |
+|---------+-------------------------------------------|
+
